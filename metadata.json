@@ -1,0 +1,6 @@
+{
+  "name": "University Timetable Generator",
+  "description": "Constraint Satisfaction Problem (CSP) Timetable Generator with MRV heuristics, forward checking, conflict resolution, and matrix view.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
